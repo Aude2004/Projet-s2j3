@@ -43,3 +43,4 @@ def perform
   play_game
   average_finish_time(100)
 end
+perform

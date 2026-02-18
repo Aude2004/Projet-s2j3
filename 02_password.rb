@@ -26,3 +26,4 @@ def perform
   login(password)
   welcome_screen
 end
+perform
